@@ -1,0 +1,5 @@
+[ 2020-06-01T15:47:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003831s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-01T15:47:35+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-01T15:47:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016828s ]
+[ 2020-06-01T15:47:36+08:00 ][ info ] [ DB ] INIT mysql

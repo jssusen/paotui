@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'School_id'    =>'学校名称',
+    'Name'         => '店铺名称',
+    'Images'       => '店铺头像',
+    'Content'      => '店铺介绍',
+    'Mobile'       => '手机号码',
+    'Mini_price'   => '起送价',
+    'Packing_fee'  => '配送费',
+    'Service_time' => '送达时间',
+    'Status'       => '状态',
+    'Status 0'     => '待审核',
+    'Status 1'     => '审核失败',
+    'Status 2'     => '已下架',
+    'Status 3'     => '休息中',
+    'Status 4'     => '营业中',
+    'Type'         => '店铺类型',
+    'Type 0'       => '食堂',
+    'Type 1'       => '品牌快猜',
+    'Type 2'       => '中式正餐',
+    'Type 3'       => '小吃快餐',
+    'Type 4'       => '咖啡甜品',
+    'Type 5'       => '面包蛋糕',
+    'Type 6'       => '日韩料理',
+    'Type 7'       => '生活超市',
+    'Createtime'   => '添加时间',
+    'Updatetime'   => '更改时间',
+    'Deletetime'   => '删除时间'
+];
